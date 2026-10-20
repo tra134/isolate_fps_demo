@@ -30,10 +30,9 @@ từ chính code trong repo, release mặc định ký bằng debug key – ch�
 
 ## 2. Ảnh / GIF demo
 
-*(Thêm ảnh thật sau khi chạy trên điện thoại/emulator – ảnh đầu README là
-**biểu đồ gộp 3 đường** sau khi bấm Run all modes lần 2, phải chụp **sau
-đợt sửa biểu đồ này**: đường bậc thang, tiêu đề 2 trục, nhãn 0,5 s, chữ
-`start` trắng.)*
+![Demo 1](demo1.png)
+
+![Demo 2](demo2.png)
 
 ## 3. Mục tiêu đề tài
 
